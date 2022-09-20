@@ -1,5 +1,8 @@
 ## ⚡ Participations API & Frontend
 
+
+![Screen Shot 2022-09-20 at 06 09 36](https://user-images.githubusercontent.com/140903/191217911-aa77afac-d0f1-49c1-9239-b29de989e640.png)
+
 This was a project of a CRUD application both in Front and Backend, using the MERN Stack (Mongo- Express- React- NodeJS) stack.
 
 This application goes back and forth between API and Frontend, allowing for different users participation to be stored and be used for graphing in the application.
